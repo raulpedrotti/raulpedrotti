@@ -21,7 +21,12 @@ I have hands-on experience with the following process nodes through research and
 * **Bench Testing:** Expert use of **Agilent B1500** for transistor characterization, Oscilloscopes, and Spectrum Analyzers.
 * **Hardware Description:** VerilogA, VHDL.
 * **Scripting & Tools:** Python (for test automation), MATLAB, **LaTeX (Overleaf)**.
-
+  
+### 🗣️ Languages
+* **Portuguese:** Native Speaker 🇧🇷
+* **English:** Professional Working Proficiency (**B2 Level**) 🇺🇸
+* **Spanish:** Strong Reading & Comprehension Skills (Living on the border of 🇦🇷/🇺🇾)
+* **German:** Elementary Proficiency (**A1/A2 - Currently Learning**) 🇩🇪
 ---
 
 ### 🌟 Leadership & Impact
