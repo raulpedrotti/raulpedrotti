@@ -10,7 +10,7 @@ I am a Silicon Enjoyer **Analog/Mixed-Signal IC Designer** currently pursuing my
 * **Key Focus:** Low-energy circuits and high-performance systems.
 
 ### 🛠️ Silicon Experience (CMOS Nodes)
-I have hands-on experience with the following process nodes through research and **two MPW tapeouts** during my time at the Von Braun Center:
+I have hands-on experience with the following process nodes through research and following **two MPW tapeouts** during my time at the Von Braun Center:
 * **TSMC 180nm / 65nm / 28nm**
 * **GlobalFoundries 130nm**
 * **SkyWater 130nm**
