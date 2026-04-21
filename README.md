@@ -31,7 +31,7 @@ I have hands-on experience with the following process nodes through research and
 
 ### 🌟 Leadership & Impact
 * **IEEE Student Branch Volunteer:** Former Vice-chair of the IEEE Student Branch at Unipampa (Alegrete).
-* **Research Lead:** Supervising the SoCWiMed project.
+* **Research Lead:** Supervising the SoCWiMed project. SoCWiMed is a system that contains 3 big fields of IC design, including Analog/Mixed Signal, Digital, and RF. Currently, I'm managing the Analog/Mixed Signal team. The team is composed of undergraduate and graduate researchers. 
 
 ### 📍 Location & Roots
 * **Currently based in:** The countryside of **Rio Grande do Sul, Brazil** 🇧🇷.
