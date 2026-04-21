@@ -18,7 +18,7 @@ I have hands-on experience with the following process nodes through research and
 ### 💻 Tech Stack
 * **Design & Simulation:** Cadence Virtuoso (Spectre/ADE), Mentor Graphics, LTSpice.
 * **Physical Design:** Layout XL, DRC/LVS verification.
-* **Bench Testing:** Expert use of **Agilent B1500** for transistor characterization, Oscilloscopes, and Spectrum Analyzers.
+* **Bench Testing:** Use of **Agilent B1500** for transistor characterization, Oscilloscopes, and Spectrum Analyzers.
 * **Hardware Description:** VerilogA, VHDL.
 * **Scripting & Tools:** Python (for test automation), MATLAB, **LaTeX (Overleaf)**.
   
