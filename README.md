@@ -1,7 +1,7 @@
-# Hi there, I'm Raul Pedrotti de Oliveira! 👋
+# Hello and Welcome to my Git, I'm Raul Pedrotti de Oliveira. 👋
 ### Telecommunications Engineer | Microelectronics Master's Student | Analog IC Designer
 
-I am a Silicon Enjoyer **Analog/Mixed-Signal IC Designer** currently pursuing my Master's degree. My focus lies at the intersection of high-speed communications and low-power biomedical sensing. I enjoy bridging the gap between physical phenomena and digital processing through robust silicon design.
+Hello and welcome to my GitHub. I'm a Telecommunications engineer from the Federal University of Pampa and I'm currently pursuing my MSc. in low-power biomedical circuits (ECG/PPG) for wearable applications at GAMA Group. I am a Silicon Enjoyer and like to study microelectronics, including **Analog/Mixed-Signal, RF and other topics**. My focus lies at the intersection of high-speed communications and low-power biomedical sensing. I enjoy bridging the gap between physical phenomena and digital processing through robust silicon design.
 
 ---
 
@@ -46,5 +46,6 @@ I have hands-on experience with the following process nodes through research and
 ---
 
 ### 📫 Connect with me:
+Feel free to contact me anytime:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-pedrotti-de-oliveira-020950180/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulpedrottio@gmail.com)
